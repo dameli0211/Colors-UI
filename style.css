@@ -1,0 +1,11 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.container {
+    border: solid 5px grey;
+    padding:20px;
+    margin:50px;
+    background-color:hotpink;
+    text-align: center;
