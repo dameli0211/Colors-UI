@@ -1,2 +1,2 @@
-# Colors-UI
+# Colors
 Creating with bootrap colors
